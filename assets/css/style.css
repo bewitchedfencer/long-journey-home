@@ -4,6 +4,10 @@
     font-weight:700;
 }
 
+row{
+    width:700px;
+}
+
 nav{
     background-color:black;
     font-family: 'Merienda', cursive;
@@ -12,4 +16,28 @@ nav{
 
 #navigation{
     margin-left:10%;
+}
+
+#synopsisSection{
+    background-color: red;
+}
+
+#authorSection{
+    background-color: purple;
+}
+
+#authorNote{
+    background-color:yellow;
+}
+
+#authorBio{
+    background-color: white;
+}
+
+#linksSection{
+    background-color:green;
+}
+
+.images{
+    margin:10px;
 }
