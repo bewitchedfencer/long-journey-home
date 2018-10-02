@@ -94,3 +94,8 @@ a:hover{
 a{
     color:black;    
 }
+li{
+    font-size:20px;     
+    font-family: 'Barlow', sans-serif; 
+    color:black; 
+}
