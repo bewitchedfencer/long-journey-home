@@ -1,7 +1,14 @@
 #title{
-    color:purple;
+    color:white;
     font-family: 'Merienda', cursive;
     font-weight:700;
+    background-color: #00b5ff;
+    width:50%;
+    position:relative;
+    left:25%;
+    padding:25px;
+    border:10px double white;
+    border-radius:10px;
 }
 
 row{
@@ -9,7 +16,7 @@ row{
 }
 
 nav{
-    background-color:black;
+    background-color:#CCC314;
     font-family: 'Merienda', cursive;
     font-weight:700;
 }
@@ -40,4 +47,10 @@ nav{
 
 .images{
     margin:10px;
+    border:10px double white;  
+    border-radius:10px;  
+}
+
+.backPic{
+    background-image: url("../images/bckgd.jpg");
 }
